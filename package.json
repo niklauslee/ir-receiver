@@ -1,0 +1,6 @@
+{
+  "name": "ir-receiver",
+  "version": "1.0.0",
+  "description": "Kaluma library for IR (Infra-red) receiver.",
+  "main": "index.js"
+}
